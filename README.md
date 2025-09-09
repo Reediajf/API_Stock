@@ -50,7 +50,7 @@ Clone o repositório:
 **`git clone https://github.com/seu-usuario/Stock.git`**
 
 
-Compile o projeto (assumindo que as libs estão em lib/):
+Compile o projeto:
 
 **`javac -cp "lib/*" -d bin src/**/*.java`**
 
