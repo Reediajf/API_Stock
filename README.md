@@ -67,9 +67,6 @@ Execute a aplicação:
 <img width="447" height="355" alt="image" src="https://github.com/user-attachments/assets/07ad55dd-0551-47fe-b540-3fd955a4936a" />
 <img width="447" height="355" alt="image" src="https://github.com/user-attachments/assets/788b5d43-f603-4591-80bb-ec4609f79179" />
 <img width="447" height="355" alt="image" src="https://github.com/user-attachments/assets/4b0b6db0-7f5f-48ec-a392-2c24cdf5cad1" />
-
-
-Exemplo de relaório
 <img width="447" height="355" alt="image" src="https://github.com/user-attachments/assets/1f3533c6-4ba6-4cc5-b2b4-2638bd999024" />
 
 
