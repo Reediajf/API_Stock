@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="io-8.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/io-8.0.3.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/kernel-8.0.3.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/layout-8.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
